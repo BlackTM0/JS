@@ -1,0 +1,116 @@
+header { 
+    width: 900px; 
+    height: 60px;   
+
+    color: white; 
+    margin:  30px auto;
+    transition: border 1.3s ease;
+}
+.menu  { 
+display:flex;
+color: white; 
+padding: 10px; 
+
+
+}
+
+a { 
+     color: black;
+    padding: 10px;
+    margin: auto ; 
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+a:hover { 
+    color: red; 
+}
+
+.task1text { 
+    font-size: 20px; 
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.task2  { 
+    font-size: 20px; 
+    color: red;
+}
+
+
+.task4 { 
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px
+}
+
+#link { 
+    color: black;
+    padding: 10px;
+    margin: auto ; 
+    text-decoration: none;
+    text-transform: uppercase;  
+}
+
+
+.task5 { 
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px
+}
+
+#duplicateField { 
+    background-color: black;
+    color: white; 
+    width: 200px; 
+    margin: auto; 
+}
+
+#trafficLight1 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: black;
+margin:200px auto 100px; 
+} 
+#trafficLight2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+  margin:200px auto 100px; 
+
+}
+
+#trafficLight3 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+  margin:200px auto 100px; 
+}
+
+
+#btn { 
+background-color: black; 
+color: white; 
+
+
+ 
+font-size: 12px; 
+width: 350px; 
+} 
+
+#btn:hover { 
+    background-color: red;
+}
+
+header:hover { 
+    border-bottom: 2px  solid #f7f7f7;
+    
+}
